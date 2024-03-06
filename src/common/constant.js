@@ -1,7 +1,7 @@
 import dholak from "../assets/audio/Dholak.mp3"
 import drum from "../assets/audio/Drum.wav"
 import guitar from "../assets/audio/Guitar.wav"
-import piano from "../assets/audio/piano.wav"
+import piano from "../assets/audio/Piano.wav"
 import trumpet from "../assets/audio/Trumpet.wav"
 
 export const PillsData = [
