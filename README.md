@@ -1,4 +1,4 @@
-### Running Locally
+# Running Locally
  
 ## To run this application on your local machine, follow these steps:
 
